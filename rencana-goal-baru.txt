@@ -5,4 +5,4 @@ Rencana Goal Baru
 - Node Js
 - Struktur Data Dasar
 - Phyton
-- Amazon
+- Angular
