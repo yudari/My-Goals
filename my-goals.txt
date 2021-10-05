@@ -1,0 +1,4 @@
+My Goals 2021
+- Saya ingin terus membuat program setiap minggu
+- Membuat aplikasi multiplatform
+- Membuat aplikasi chat
