@@ -1,6 +1,7 @@
 Rencana Goal Baru
 
-- Bisa Javascript (ES6, React JS)
-- PHP
+- Bisa Javascript (ES6, React JS, Vuew)
+- PHP (Laravel)
 - Node Js
 - Struktur Data Dasar
+- Phyton
